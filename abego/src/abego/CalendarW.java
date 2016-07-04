@@ -49,6 +49,8 @@ public class CalendarW extends JPanel
     private static final int FIELD_HEIGHT  		= 32;
     private static final int BORDER_WIDTH  		= 2;
     private static final int BUTTON_X_Y    		= FIELD_HEIGHT - BORDER_WIDTH * 2;
+    
+    
 
     private SimpleDateFormat dateFormat;
     private DatePanel datePanel = null;
